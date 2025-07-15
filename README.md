@@ -10,7 +10,7 @@ This project aims to help in **early detection of heart disease** by providing a
 - 🔍 **Feature Engineering** to select and prepare relevant inputs.
 - 🤖 **Machine Learning Models** (Logistic Regression, Random Forest, etc.) for classification.
 - 📊 **Model Evaluation** using Accuracy, Precision, Recall, and F1-Score.
-- 🌐 **Web Interface** built with Flask or Streamlit for user interaction.
+- 🌐 **Web Interface** built with Streamlit for user interaction.
 - 📈 **Visualization Tools** to display insights and metrics.
 
 ## 🛠️ Tech Stack
